@@ -3,7 +3,7 @@ import secrets
 from hashlib import blake2s
 
 
-### code for creating ECC for field for polynomial ###
+### code for creating ECC for field for polynomial vector commitments ###
 
 # Curve parameters
 q = 2 ** 255 - 19
